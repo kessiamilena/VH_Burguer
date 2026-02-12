@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Senaisp\\Desktop\\kessia\\Aulas T\u00E9cnico\\Dev 3 Sem - 2026\\POCZINHA\\VH Burguer\\VHBurguer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A916E849-21AF-47B0-8F0B-68F461BD9BF1}|VHBurguer.csproj|c:\\users\\senaisp\\desktop\\kessia\\aulas t\u00E9cnico\\dev 3 sem - 2026\\poczinha\\vh burguer\\vhburguer\\applications\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A916E849-21AF-47B0-8F0B-68F461BD9BF1}|VHBurguer.csproj|solutionrelative:applications\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A916E849-21AF-47B0-8F0B-68F461BD9BF1}|VHBurguer.csproj|c:\\users\\senaisp\\desktop\\kessia\\aulas t\u00E9cnico\\dev 3 sem - 2026\\poczinha\\vh burguer\\vhburguer\\contexts\\vh_burguercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A916E849-21AF-47B0-8F0B-68F461BD9BF1}|VHBurguer.csproj|solutionrelative:contexts\\vh_burguercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A916E849-21AF-47B0-8F0B-68F461BD9BF1}|VHBurguer.csproj|c:\\users\\senaisp\\desktop\\kessia\\aulas t\u00E9cnico\\dev 3 sem - 2026\\poczinha\\vh burguer\\vhburguer\\exceptions\\domainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A916E849-21AF-47B0-8F0B-68F461BD9BF1}|VHBurguer.csproj|solutionrelative:exceptions\\domainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A916E849-21AF-47B0-8F0B-68F461BD9BF1}|VHBurguer.csproj|c:\\users\\senaisp\\desktop\\kessia\\aulas t\u00E9cnico\\dev 3 sem - 2026\\poczinha\\vh burguer\\vhburguer\\dtos\\lerusuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A916E849-21AF-47B0-8F0B-68F461BD9BF1}|VHBurguer.csproj|solutionrelative:dtos\\lerusuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A916E849-21AF-47B0-8F0B-68F461BD9BF1}|VHBurguer.csproj|c:\\users\\senaisp\\desktop\\kessia\\aulas t\u00E9cnico\\dev 3 sem - 2026\\poczinha\\vh burguer\\vhburguer\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A916E849-21AF-47B0-8F0B-68F461BD9BF1}|VHBurguer.csproj|solutionrelative:repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A916E849-21AF-47B0-8F0B-68F461BD9BF1}|VHBurguer.csproj|c:\\users\\senaisp\\desktop\\kessia\\aulas t\u00E9cnico\\dev 3 sem - 2026\\poczinha\\vh burguer\\vhburguer\\interfaces\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A916E849-21AF-47B0-8F0B-68F461BD9BF1}|VHBurguer.csproj|solutionrelative:interfaces\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A916E849-21AF-47B0-8F0B-68F461BD9BF1}|VHBurguer.csproj|c:\\users\\senaisp\\desktop\\kessia\\aulas t\u00E9cnico\\dev 3 sem - 2026\\poczinha\\vh burguer\\vhburguer\\dtos\\criarusuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A916E849-21AF-47B0-8F0B-68F461BD9BF1}|VHBurguer.csproj|solutionrelative:dtos\\criarusuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A916E849-21AF-47B0-8F0B-68F461BD9BF1}|VHBurguer.csproj|c:\\users\\senaisp\\desktop\\kessia\\aulas t\u00E9cnico\\dev 3 sem - 2026\\poczinha\\vh burguer\\vhburguer\\domains\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A916E849-21AF-47B0-8F0B-68F461BD9BF1}|VHBurguer.csproj|solutionrelative:domains\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DomainException.cs",
+              "DocumentMoniker": "C:\\Users\\Senaisp\\Desktop\\kessia\\Aulas T\u00E9cnico\\Dev 3 Sem - 2026\\POCZINHA\\VH Burguer\\VHBurguer\\Exceptions\\DomainException.cs",
+              "RelativeDocumentMoniker": "Exceptions\\DomainException.cs",
+              "ToolTip": "C:\\Users\\Senaisp\\Desktop\\kessia\\Aulas T\u00E9cnico\\Dev 3 Sem - 2026\\POCZINHA\\VH Burguer\\VHBurguer\\Exceptions\\DomainException.cs",
+              "RelativeToolTip": "Exceptions\\DomainException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T13:21:18.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\Senaisp\\Desktop\\kessia\\Aulas T\u00E9cnico\\Dev 3 Sem - 2026\\POCZINHA\\VH Burguer\\VHBurguer\\Applications\\Services\\UsuarioService.cs",
+              "RelativeDocumentMoniker": "Applications\\Services\\UsuarioService.cs",
+              "ToolTip": "C:\\Users\\Senaisp\\Desktop\\kessia\\Aulas T\u00E9cnico\\Dev 3 Sem - 2026\\POCZINHA\\VH Burguer\\VHBurguer\\Applications\\Services\\UsuarioService.cs",
+              "RelativeToolTip": "Applications\\Services\\UsuarioService.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAUwFgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T12:13:53.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Senaisp\\Desktop\\kessia\\Aulas T\u00E9cnico\\Dev 3 Sem - 2026\\POCZINHA\\VH Burguer\\VHBurguer\\Repositories\\UsuarioRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\UsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\Senaisp\\Desktop\\kessia\\Aulas T\u00E9cnico\\Dev 3 Sem - 2026\\POCZINHA\\VH Burguer\\VHBurguer\\Repositories\\UsuarioRepository.cs",
+              "RelativeToolTip": "Repositories\\UsuarioRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T11:31:03.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IUsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Senaisp\\Desktop\\kessia\\Aulas T\u00E9cnico\\Dev 3 Sem - 2026\\POCZINHA\\VH Burguer\\VHBurguer\\Interfaces\\IUsuarioRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IUsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\Senaisp\\Desktop\\kessia\\Aulas T\u00E9cnico\\Dev 3 Sem - 2026\\POCZINHA\\VH Burguer\\VHBurguer\\Interfaces\\IUsuarioRepository.cs",
+              "RelativeToolTip": "Interfaces\\IUsuarioRepository.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T11:22:48.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LerUsuarioDto.cs",
+              "DocumentMoniker": "C:\\Users\\Senaisp\\Desktop\\kessia\\Aulas T\u00E9cnico\\Dev 3 Sem - 2026\\POCZINHA\\VH Burguer\\VHBurguer\\DTOs\\LerUsuarioDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\LerUsuarioDto.cs",
+              "ToolTip": "C:\\Users\\Senaisp\\Desktop\\kessia\\Aulas T\u00E9cnico\\Dev 3 Sem - 2026\\POCZINHA\\VH Burguer\\VHBurguer\\DTOs\\LerUsuarioDto.cs",
+              "RelativeToolTip": "DTOs\\LerUsuarioDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T11:15:21.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CriarUsuarioDto.cs",
+              "DocumentMoniker": "C:\\Users\\Senaisp\\Desktop\\kessia\\Aulas T\u00E9cnico\\Dev 3 Sem - 2026\\POCZINHA\\VH Burguer\\VHBurguer\\DTOs\\CriarUsuarioDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\CriarUsuarioDto.cs",
+              "ToolTip": "C:\\Users\\Senaisp\\Desktop\\kessia\\Aulas T\u00E9cnico\\Dev 3 Sem - 2026\\POCZINHA\\VH Burguer\\VHBurguer\\DTOs\\CriarUsuarioDto.cs",
+              "RelativeToolTip": "DTOs\\CriarUsuarioDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T11:12:13.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Senaisp\\Desktop\\kessia\\Aulas T\u00E9cnico\\Dev 3 Sem - 2026\\POCZINHA\\VH Burguer\\VHBurguer\\Domains\\Usuario.cs",
+              "RelativeDocumentMoniker": "Domains\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Senaisp\\Desktop\\kessia\\Aulas T\u00E9cnico\\Dev 3 Sem - 2026\\POCZINHA\\VH Burguer\\VHBurguer\\Domains\\Usuario.cs",
+              "RelativeToolTip": "Domains\\Usuario.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T11:08:41.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VH_BurguerContext.cs",
+              "DocumentMoniker": "C:\\Users\\Senaisp\\Desktop\\kessia\\Aulas T\u00E9cnico\\Dev 3 Sem - 2026\\POCZINHA\\VH Burguer\\VHBurguer\\Contexts\\VH_BurguerContext.cs",
+              "RelativeDocumentMoniker": "Contexts\\VH_BurguerContext.cs",
+              "ToolTip": "C:\\Users\\Senaisp\\Desktop\\kessia\\Aulas T\u00E9cnico\\Dev 3 Sem - 2026\\POCZINHA\\VH Burguer\\VHBurguer\\Contexts\\VH_BurguerContext.cs",
+              "RelativeToolTip": "Contexts\\VH_BurguerContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T13:44:09.172Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
