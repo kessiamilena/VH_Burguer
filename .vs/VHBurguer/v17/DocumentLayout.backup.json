@@ -15,6 +15,10 @@
       "RelativeMoniker": "D:0:0:{A916E849-21AF-47B0-8F0B-68F461BD9BF1}|VHBurguer.csproj|solutionrelative:repositories\\produtorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A916E849-21AF-47B0-8F0B-68F461BD9BF1}|VHBurguer.csproj|c:\\users\\senaisp\\desktop\\kessia\\aulas t\u00E9cnico\\dev 3 sem - 2026\\poczinha\\vh burguer\\vhburguer\\interfaces\\iprodutorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A916E849-21AF-47B0-8F0B-68F461BD9BF1}|VHBurguer.csproj|solutionrelative:interfaces\\iprodutorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A916E849-21AF-47B0-8F0B-68F461BD9BF1}|VHBurguer.csproj|c:\\users\\senaisp\\desktop\\kessia\\aulas t\u00E9cnico\\dev 3 sem - 2026\\poczinha\\vh burguer\\vhburguer\\dtos\\produtodto\\atualizarprodutodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A916E849-21AF-47B0-8F0B-68F461BD9BF1}|VHBurguer.csproj|solutionrelative:dtos\\produtodto\\atualizarprodutodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -25,10 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A916E849-21AF-47B0-8F0B-68F461BD9BF1}|VHBurguer.csproj|c:\\users\\senaisp\\desktop\\kessia\\aulas t\u00E9cnico\\dev 3 sem - 2026\\poczinha\\vh burguer\\vhburguer\\dtos\\produtodto\\criarprodutodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A916E849-21AF-47B0-8F0B-68F461BD9BF1}|VHBurguer.csproj|solutionrelative:dtos\\produtodto\\criarprodutodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A916E849-21AF-47B0-8F0B-68F461BD9BF1}|VHBurguer.csproj|c:\\users\\senaisp\\desktop\\kessia\\aulas t\u00E9cnico\\dev 3 sem - 2026\\poczinha\\vh burguer\\vhburguer\\interfaces\\iprodutorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A916E849-21AF-47B0-8F0B-68F461BD9BF1}|VHBurguer.csproj|solutionrelative:interfaces\\iprodutorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A916E849-21AF-47B0-8F0B-68F461BD9BF1}|VHBurguer.csproj|c:\\users\\senaisp\\desktop\\kessia\\aulas t\u00E9cnico\\dev 3 sem - 2026\\poczinha\\vh burguer\\vhburguer\\applications\\conversoes\\produtoparadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -112,14 +112,14 @@
               "RelativeDocumentMoniker": "Controllers\\ProdutoController.cs",
               "ToolTip": "C:\\Users\\Senaisp\\Desktop\\kessia\\Aulas T\u00E9cnico\\Dev 3 Sem - 2026\\POCZINHA\\VH Burguer\\VHBurguer\\Controllers\\ProdutoController.cs",
               "RelativeToolTip": "Controllers\\ProdutoController.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwBwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-18T13:29:07.186Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "AtualizarProdutoDto.cs",
               "DocumentMoniker": "C:\\Users\\Senaisp\\Desktop\\kessia\\Aulas T\u00E9cnico\\Dev 3 Sem - 2026\\POCZINHA\\VH Burguer\\VHBurguer\\DTOs\\ProdutoDto\\AtualizarProdutoDto.cs",
               "RelativeDocumentMoniker": "DTOs\\ProdutoDto\\AtualizarProdutoDto.cs",
@@ -132,33 +132,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ProdutoParaDto.cs",
-              "DocumentMoniker": "C:\\Users\\Senaisp\\Desktop\\kessia\\Aulas T\u00E9cnico\\Dev 3 Sem - 2026\\POCZINHA\\VH Burguer\\VHBurguer\\Applications\\Conversoes\\ProdutoParaDto.cs",
-              "RelativeDocumentMoniker": "Applications\\Conversoes\\ProdutoParaDto.cs",
-              "ToolTip": "C:\\Users\\Senaisp\\Desktop\\kessia\\Aulas T\u00E9cnico\\Dev 3 Sem - 2026\\POCZINHA\\VH Burguer\\VHBurguer\\Applications\\Conversoes\\ProdutoParaDto.cs",
-              "RelativeToolTip": "Applications\\Conversoes\\ProdutoParaDto.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAiwBkAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-18T11:28:07.108Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "ProdutoService.cs",
               "DocumentMoniker": "C:\\Users\\Senaisp\\Desktop\\kessia\\Aulas T\u00E9cnico\\Dev 3 Sem - 2026\\POCZINHA\\VH Burguer\\VHBurguer\\Applications\\Services\\ProdutoService.cs",
               "RelativeDocumentMoniker": "Applications\\Services\\ProdutoService.cs",
               "ToolTip": "C:\\Users\\Senaisp\\Desktop\\kessia\\Aulas T\u00E9cnico\\Dev 3 Sem - 2026\\POCZINHA\\VH Burguer\\VHBurguer\\Applications\\Services\\ProdutoService.cs",
               "RelativeToolTip": "Applications\\Services\\ProdutoService.cs",
-              "ViewState": "AgIAAJMAAAAAAAAAAAAmwJkAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAiwJkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-18T11:25:01.858Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "CriarProdutoDto.cs",
               "DocumentMoniker": "C:\\Users\\Senaisp\\Desktop\\kessia\\Aulas T\u00E9cnico\\Dev 3 Sem - 2026\\POCZINHA\\VH Burguer\\VHBurguer\\DTOs\\ProdutoDto\\CriarProdutoDto.cs",
               "RelativeDocumentMoniker": "DTOs\\ProdutoDto\\CriarProdutoDto.cs",
@@ -171,7 +158,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "IProdutoRepository.cs",
               "DocumentMoniker": "C:\\Users\\Senaisp\\Desktop\\kessia\\Aulas T\u00E9cnico\\Dev 3 Sem - 2026\\POCZINHA\\VH Burguer\\VHBurguer\\Interfaces\\IProdutoRepository.cs",
               "RelativeDocumentMoniker": "Interfaces\\IProdutoRepository.cs",
@@ -184,7 +171,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "LerProdutoDto.cs",
               "DocumentMoniker": "C:\\Users\\Senaisp\\Desktop\\kessia\\Aulas T\u00E9cnico\\Dev 3 Sem - 2026\\POCZINHA\\VH Burguer\\VHBurguer\\DTOs\\ProdutoDto\\LerProdutoDto.cs",
               "RelativeDocumentMoniker": "DTOs\\ProdutoDto\\LerProdutoDto.cs",
@@ -203,9 +190,22 @@
               "RelativeDocumentMoniker": "Repositories\\ProdutoRepository.cs",
               "ToolTip": "C:\\Users\\Senaisp\\Desktop\\kessia\\Aulas T\u00E9cnico\\Dev 3 Sem - 2026\\POCZINHA\\VH Burguer\\VHBurguer\\Repositories\\ProdutoRepository.cs",
               "RelativeToolTip": "Repositories\\ProdutoRepository.cs",
-              "ViewState": "AgIAAGcAAAAAAAAAAAAwwHQAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHQAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-13T11:35:04.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProdutoParaDto.cs",
+              "DocumentMoniker": "C:\\Users\\Senaisp\\Desktop\\kessia\\Aulas T\u00E9cnico\\Dev 3 Sem - 2026\\POCZINHA\\VH Burguer\\VHBurguer\\Applications\\Conversoes\\ProdutoParaDto.cs",
+              "RelativeDocumentMoniker": "Applications\\Conversoes\\ProdutoParaDto.cs",
+              "ToolTip": "C:\\Users\\Senaisp\\Desktop\\kessia\\Aulas T\u00E9cnico\\Dev 3 Sem - 2026\\POCZINHA\\VH Burguer\\VHBurguer\\Applications\\Conversoes\\ProdutoParaDto.cs",
+              "RelativeToolTip": "Applications\\Conversoes\\ProdutoParaDto.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAiwBkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T11:28:07.108Z",
               "EditorCaption": ""
             },
             {
